@@ -1,65 +1,59 @@
 [
     {
         "type": "cat",
-        "items": [
-            {
-                "color": "grey",
-                "price": 15,
-                "name": "Vasya",
-                "isFluffy": true
-            },
-            {
-                "color": "red",
-                "price": 13,
-                "name": "Pich",
-                "isFluffy": false
-            },
-            {
-                "color": "calico",
-                "price": 15,
-                "name": "John",
-                "isFluffy": true
-            }
-        ]
+        "color": "grey",
+        "price": 15,
+        "name": "Vasya",
+        "isFluffy": true
+    },
+    {
+        "type": "cat",
+        "color": "red",
+        "price": 13,
+        "name": "Pich",
+        "isFluffy": false
+    },
+    {
+        "type": "cat",
+        "color": "calico",
+        "price": 15,
+        "name": "John",
+        "isFluffy": true
     },
     {
         "type": "dog",
-        "items": [
-            {
-                "color": "grey",
-                "price": 5,
-                "isFluffy": true
-            },
-            {
-                "color": "white",
-                "price": 3,
-                "isFluffy": true
-            },
-            {
-                "color": "grey",
-                "price": 5,
-                "isFluffy": false
-            }
-        ]
+        "color": "grey",
+        "price": 5,
+        "isFluffy": true
     },
     {
-        "type": "humster",
-        "items": [
-            {
-                "color": "grey",
-                "price": 25,
-                "name": "Rex"
-            },
-            {
-                "color": "black",
-                "price": 23,
-                "name": "King"
-            },
-            {
-                "color": "brown",
-                "price": 25,
-                "name": "Lion"
-            }
-        ]
+        "type": "dog",
+        "color": "white",
+        "price": 3,
+        "isFluffy": true
+    },
+    {
+        "type": "dog",
+        "color": "grey",
+        "price": 5,
+        "isFluffy": false
+    },
+    {
+        "type": "hamster",
+        "color": "grey",
+        "price": 25,
+        "name": "Rex"
+    },
+    {
+        "type": "hamster",
+        "color": "black",
+        "price": 23,
+        "name": "King"
+    },
+    {
+        "type": "hamster",
+        "color": "brown",
+        "price": 25,
+        "name": "Lion"
     }
 ]
