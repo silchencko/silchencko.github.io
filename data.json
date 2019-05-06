@@ -21,37 +21,37 @@
         "isFluffy": true
     },
     {
-        "type": "dog",
+        "type": "hamster",
         "color": "grey",
         "price": 5,
         "isFluffy": true
     },
     {
-        "type": "dog",
+        "type": "hamster",
         "color": "white",
         "price": 3,
         "isFluffy": true
     },
     {
-        "type": "dog",
+        "type": "hamster",
         "color": "grey",
         "price": 5,
         "isFluffy": false
     },
     {
-        "type": "hamster",
+        "type": "dog",
         "color": "grey",
         "price": 25,
         "name": "Rex"
     },
     {
-        "type": "hamster",
+        "type": "dog",
         "color": "black",
         "price": 23,
         "name": "King"
     },
     {
-        "type": "hamster",
+        "type": "dog",
         "color": "brown",
         "price": 25,
         "name": "Lion"
